@@ -10,7 +10,7 @@ How to compile:
 		Open Linux.
 		Open the attached folder.
 		Right click and chose "Open in Treminal".
-		Type in "g++ finalEx.cpp -o finalEx"
+		Type in "g++ unixDS.cpp -o unixDS"
 
 	Option 2:
 		Open Linux.
@@ -25,7 +25,7 @@ How to run:
 		Open Llinux.
 		Open the attached folder in "Files".
 		Right click and chose "Open in Treminal".
-		On the treminal type in "./exfinal" and press enter.
+		On the treminal type in "./unixDS" and press enter.
 	
 	Option 2:
 		Open Linux.
